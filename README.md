@@ -37,7 +37,7 @@ O pipeline coleta dados meteorológicos da API OpenWeatherMap a cada hora, trans
 ### Core
 - **Python 3.14+** - Linguagem principal
 - **Apache Airflow 3.1.7** - Orquestração do pipeline
-- **MySQL ** - Banco de dados relacional
+- **MySQL** - Banco de dados relacional
 - **Docker & Docker Compose** - Containerização
 
 ### Bibliotecas Python
